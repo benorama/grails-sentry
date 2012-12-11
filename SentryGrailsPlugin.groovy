@@ -5,7 +5,7 @@ import org.apache.log4j.Logger
 
 class SentryGrailsPlugin {
 
-    def version = "0.1"
+    def version = "0.1.RC1"
     def grailsVersion = "2.0 > *"
 
     def author = "Benoit Hediard"
