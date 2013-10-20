@@ -1,7 +1,7 @@
 Sentry Grails Plugin
 =========================
 
-[![Build Status](https://buildhive.cloudbees.com/job/benorama/job/grails-sentry/badge/icon)](https://buildhive.cloudbees.com/job/benorama/job/grails-sentry/)
+[![Stories in Ready](https://badge.waffle.io/benorama/grails-sentry.png?label=ready)](http://waffle.io/benorama/grails-sentry)
 
 # Introduction
 
